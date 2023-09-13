@@ -11,14 +11,18 @@ p {
     list-style-type: square;
 }
 
-body{
+body {
     background-color: #ffcc8b;
     font-size: 30px;
 }
-h2{
+
+h2 {
     color: #c94562;
-    text-size-adjust: 100px;
+    font-family: Arial, serif;
 }
 
-
+h3{
+    color: #c94562;
+    text-shadow: 0 0 4px;
+}
 
